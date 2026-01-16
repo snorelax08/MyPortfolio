@@ -92,21 +92,21 @@ const projects = [
     liveUrl: "#",
     githubUrl: "#"
   },
-   {
-    title: "MetaMint",
+  {
+    title: "Pawnder",
     description:
-      "Blockchain-based platform that enables users to invest in creators by purchasing creator-specific tokens, fostering growth and innovation in the creator economy.",
+      "Full-stack MERN-based pet adoption platform featuring user authentication, pet listings, smart matching, and adoption workflows.",
     tags: [
-      "Blockchain",
-      "Node.js",
-      "Express.js",
       "MongoDB",
-      "HTML",
-      "CSS"
+      "Express.js",
+      "React",
+      "Node.js",
+      "JWT",
+      "REST API"
     ],
-    image: "https://images.unsplash.com/photo-1644088379091-d574269d422f?auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=800&q=80",
     liveUrl: "#",
-    githubUrl: "https://github.com/your-username/metamint"
+    githubUrl: "#"
   },
   {
     title: "IoT & Soil Microelements Analysis",
