@@ -53,7 +53,7 @@ const projects = [
   {
     title: "Pawnder",
     description:
-      "Full-stack MERN-based pet adoption platform featuring user authentication, pet listings, smart matching, and adoption workflows.",
+      "Tinder-style pet adoption platform built using the MERN stack, enabling swipe-based matching between adopters and pets with secure authentication, personalized recommendations, and streamlined adoption workflows.",
     tags: [
       "MongoDB",
       "Express.js",
