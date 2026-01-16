@@ -51,6 +51,22 @@ const projects = [
     githubUrl: "#"
   },
   {
+    title: "Pawnder",
+    description:
+      "Full-stack MERN-based pet adoption platform featuring user authentication, pet listings, smart matching, and adoption workflows.",
+    tags: [
+      "MongoDB",
+      "Express.js",
+      "React",
+      "Node.js",
+      "JWT",
+      "REST API"
+    ],
+    image: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=800&q=80",
+    liveUrl: "#",
+    githubUrl: "#"
+  },
+  {
     title: "Mood Music Recommender",
     description:
       "AI-based music recommendation system that suggests tracks based on user mood, weather conditions, and time of day, supporting both text and voice input.",
@@ -89,22 +105,6 @@ const projects = [
       "Developer Tools"
     ],
     image: "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?auto=format&fit=crop&w=800&q=80",
-    liveUrl: "#",
-    githubUrl: "#"
-  },
-  {
-    title: "Pawnder",
-    description:
-      "Full-stack MERN-based pet adoption platform featuring user authentication, pet listings, smart matching, and adoption workflows.",
-    tags: [
-      "MongoDB",
-      "Express.js",
-      "React",
-      "Node.js",
-      "JWT",
-      "REST API"
-    ],
-    image: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=800&q=80",
     liveUrl: "#",
     githubUrl: "#"
   },
