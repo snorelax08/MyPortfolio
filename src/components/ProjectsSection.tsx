@@ -64,7 +64,7 @@ const projects = [
     ],
     image: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=800&q=80",
     liveUrl: "#",
-    githubUrl: "#"
+    githubUrl: "https://github.com/snorelax08/Pawnder"
   },
   {
     title: "Mood Music Recommender",
