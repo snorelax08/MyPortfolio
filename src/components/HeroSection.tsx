@@ -41,7 +41,7 @@ export function HeroSection() {
                                 size="lg"
                                 onClick={() => {
                                     const link = document.createElement("a");
-                                    link.href = "/atharwa_resume.pdf";
+                                    link.href = "/atharwaresumegit.pdf";
                                     link.download = "atharwaresumegit.pdf";
                                     link.click();
                                 }}
